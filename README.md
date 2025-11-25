@@ -5,3 +5,4 @@ V1 with small form factor and 5 rotary potentiometers.
 
 V2 Now with slider potentiometers and bar lights for each pot. WIP
 <br><img src="https://github.com/user-attachments/assets/41477bd7-50b3-4ce2-b4db-77a0a893520f" width="500"/><br>
+<img width="779" height="568" alt="deej" src="https://github.com/user-attachments/assets/c2fd9722-6501-4b75-bd7c-e7977993a8f7" />
